@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import xarray as xr
 import rioxarray 
-import pyforefire as forefire
+#import pyforefire as forefire
 import os 
 import sys
 import argparse
